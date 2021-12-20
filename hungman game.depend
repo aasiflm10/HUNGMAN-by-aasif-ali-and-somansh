@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639995900 source:e:\college work oops and dsa\hungman game\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+
